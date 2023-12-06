@@ -1,1 +1,1 @@
-# PythonTests
+# Автотесты на Python+Selenium WebDriver
